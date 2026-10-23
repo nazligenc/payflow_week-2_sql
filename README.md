@@ -6,7 +6,10 @@ The objective of this project is to analyze PayFlow payment transaction data usi
 
 ## Dataset
 
+Data Source: This project uses a synthetic payment transaction dataset created for analytical and educational purposes.
+
 The dataset contains payment transaction records from January to June 2026.
+
 
 ### Data Granularity
 
